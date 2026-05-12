@@ -28,6 +28,8 @@ class ContactController extends Controller
 
     // 3. Envoi des emails
     Mail::to('contact@seafastboat.fr')->send(new NewProspectToTeam($prospect));
+    Mail::to('contact@njiezm.fr')->send(new NewProspectToTeam($prospect));
+    Mail::to('njiezamon10@gmail.com')->send(new NewProspectToTeam($prospect));
     Mail::to($prospect->email)->send(new RecapToProspect($prospect));
 
     // 4. RETOUR JSON (pas de redirect !)

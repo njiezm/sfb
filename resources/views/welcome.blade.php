@@ -499,7 +499,7 @@
     </section>
 
         <!-- EVENEMENTS & RESERVATIONS -->
-    <section id="reservations-events" class="py-20 md:py-28 relative overflow-hidden">
+    {{-- <section id="reservations-events" class="py-20 md:py-28 relative overflow-hidden">
         <div class="absolute inset-0">
             <img src="{{ asset('images/ban.png') }}" alt="Évènements en bateau"
                  class="w-full h-full object-cover opacity-20">
@@ -632,7 +632,7 @@
             </div>
 
         </div>
-    </section>
+    </section> --}}
 
     <!-- FAQ -->
     <section id="faq" class="py-20 md:py-28">

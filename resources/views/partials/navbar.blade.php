@@ -54,12 +54,12 @@
             </li>
 
             <!-- RESERVATIONS -->
-            <li>
+            {{-- <li>
                 <a href="https://reservation.sfb.njiezm.fr/"
                    class="text-red-500 underline underline-offset-4 decoration-2 hover:text-red-400 transition-colors">
                     Réservations
                 </a>
-            </li>
+            </li> --}}
 
             <!-- CTA -->
             <li>
@@ -126,11 +126,11 @@
     </a>
 
     <!-- RESERVATIONS MOBILE -->
-    <a href="https://reservation.sfb.njiezm.fr/"
+    {{-- <a href="https://reservation.sfb.njiezm.fr/"
        onclick="toggleMobileMenu()"
        class="text-red-500 underline underline-offset-4 decoration-2 hover:text-red-400 transition-colors">
         Réservations
-    </a>
+    </a> --}}
 
     <!-- CTA MOBILE -->
     <a href="{{ url('/') }}#devis"
