@@ -35,11 +35,11 @@
                 <p style="font-style: italic;">"{{ $prospect->message }}"</p>
             </div>
 
-            <p>Connectez-vous à l'admin pour voir plus de détails.</p>
+            {{-- <p>Connectez-vous à l'admin pour voir plus de détails.</p> --}}
         </div>
 
         <div class="footer">
-            Sea Fast Boat Martinique - 2024
+            Sea Fast Boat Martinique - 2026
         </div>
     </div>
 </body>

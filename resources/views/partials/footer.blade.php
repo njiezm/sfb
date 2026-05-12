@@ -83,7 +83,7 @@
 
         <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
             <p class="text-[#444] text-[10px] tracking-[0.2em] uppercase text-center sm:text-left">
-                2024 Sea Fast Boat & WICD — Martinique — Performance & Passion
+                2026 Sea Fast Boat & WICD — Martinique — Performance & Passion
             </p>
             <div class="flex items-center gap-6">
                 <a href="{{ route('mentions-legales') }}" class="text-[#444] text-[10px] tracking-wider uppercase hover:text-[#999] transition-colors">Mentions légales</a>
