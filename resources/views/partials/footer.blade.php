@@ -15,15 +15,15 @@
                 </div>
                 <p class="text-[#666] text-sm leading-relaxed">Performance navale en Martinique. Rénovation, motorisation et conception sur-mesure depuis plus de 15 ans.</p>
                 <div class="flex gap-3">
-                    <a href="#" class="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-[#666] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="Facebook">
+                    <a href="https://www.facebook.com/jeff.vergnac" class="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-[#666] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="Facebook">
                         <i class="fa-brands fa-facebook-f text-xs"></i>
                     </a>
-                    <a href="#" class="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-[#666] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="Instagram">
+                    <a href="https://www.instagram.com/sea_fast_boat.wicd/" class="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-[#666] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="Instagram">
                         <i class="fa-brands fa-instagram text-xs"></i>
                     </a>
-                    <a href="#" class="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-[#666] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="YouTube">
+                    {{-- <a href="#" class="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-[#666] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="YouTube">
                         <i class="fa-brands fa-youtube text-xs"></i>
-                    </a>
+                    </a> --}}
                     <a href="https://wa.link/56j4nv" class="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-[#666] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="WhatsApp">
                         <i class="fa-brands fa-whatsapp text-xs"></i>
                     </a>

@@ -27,7 +27,7 @@
                     Chez Sea Fast Boat & WICD, nous nous engageons à protéger votre vie privée. Cette politique explique comment nous collectons, utilisons et protégeons vos données personnelles.
                 </p>
                 <div class="mt-4 text-right">
-                    <span class="handwritten text-lg">Entrée en vigueur : Avril 2026</span>
+                    <span class="handwritten text-lg">Entrée en vigueur : Mai 2026</span>
                 </div>
             </div>
 

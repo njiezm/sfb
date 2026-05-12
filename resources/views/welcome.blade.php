@@ -722,7 +722,7 @@
                     Demander mon devis <i class="fa-solid fa-arrow-right text-xs"></i>
                 </a>
                 <a href="tel:+596696000000" class="border-2 border-white text-white heading-impact px-8 py-4 rounded-sm font-bold text-sm tracking-wider hover:bg-white/10 transition-colors inline-flex items-center justify-center gap-3">
-                    <i class="fa-solid fa-phone text-xs"></i> 0696 00 00 00
+                    <i class="fa-solid fa-phone text-xs"></i> 0696 27 11 81
                 </a>
             </div>
         </div>
@@ -756,7 +756,7 @@
                             </div>
                             <div>
                                 <div class="text-sm font-semibold">Téléphone</div>
-                                <div class="text-[#999] text-sm">0696 00 00 00</div>
+                                <div class="text-[#999] text-sm">0696 27 11 81</div>
                             </div>
                         </div>
                         <div class="flex items-start gap-4">
@@ -765,7 +765,7 @@
                             </div>
                             <div>
                                 <div class="text-sm font-semibold">Email</div>
-                                <div class="text-[#999] text-sm">contact@seafastboat.fr</div>
+                                <div class="text-[#999] text-sm">jeff_one@hotmail.fr</div>
                             </div>
                         </div>
                         <div class="flex items-start gap-4">
@@ -774,22 +774,22 @@
                             </div>
                             <div>
                                 <div class="text-sm font-semibold">Horaires</div>
-                                <div class="text-[#999] text-sm">Lun — Ven : 7h30 — 17h00<br>Sam : 8h00 — 12h00</div>
+                                <div class="text-[#999] text-sm">Lun — Ven : 8h00 — 16h00<br>Sam : sur RDV</div>
                             </div>
                         </div>
                     </div>
 
                     <div class="flex gap-3 pt-4">
-                        <a href="#" class="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center text-[#999] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="Facebook">
+                        <a href="https://www.facebook.com/jeff.vergnac" class="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center text-[#999] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="Facebook">
                             <i class="fa-brands fa-facebook-f text-sm"></i>
                         </a>
-                        <a href="#" class="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center text-[#999] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="Instagram">
+                        <a href="https://www.instagram.com/sea_fast_boat.wicd/" class="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center text-[#999] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="Instagram">
                             <i class="fa-brands fa-instagram text-sm"></i>
                         </a>
-                        <a href="#" class="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center text-[#999] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="YouTube">
+                        {{-- <a href="#" class="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center text-[#999] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="YouTube">
                             <i class="fa-brands fa-youtube text-sm"></i>
-                        </a>
-                        <a href="#" class="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center text-[#999] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="WhatsApp">
+                        </a> --}}
+                        <a href="https://wa.link/56j4nv" class="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center text-[#999] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="WhatsApp">
                             <i class="fa-brands fa-whatsapp text-sm"></i>
                         </a>
                     </div>

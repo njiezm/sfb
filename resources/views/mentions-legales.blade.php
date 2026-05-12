@@ -42,11 +42,11 @@
                     </h2>
                     <div class="bg-[#1A1A1A] p-6 rounded-lg border border-white/5">
                         <p class="text-[#BFBFBF] leading-relaxed mb-2"><strong class="text-white">Raison sociale :</strong> Sea Fast Boat & WICD</p>
-                        <p class="text-[#BFBFBF] leading-relaxed mb-2"><strong class="text-white">Forme juridique :</strong> SAS (Société par Actions Simplifiée) [À modifier selon votre statut]</p>
+                        <p class="text-[#BFBFBF] leading-relaxed mb-2"><strong class="text-white">Forme juridique :</strong> SAS (Société par Actions Simplifiée)</p>
                         <p class="text-[#BFBFBF] leading-relaxed mb-2"><strong class="text-white">Capital social :</strong> [Montant] €</p>
-                        <p class="text-[#BFBFBF] leading-relaxed mb-2"><strong class="text-white">Siège social :</strong> Zone Industrielle, 97232 Le Lamentin, Martinique</p>
-                        <p class="text-[#BFBFBF] leading-relaxed mb-2"><strong class="text-white">SIRET :</strong> [Numéro SIRET]</p>
-                        <p class="text-[#BFBFBF] leading-relaxed"><strong class="text-white">Responsable de publication :</strong> [Nom du dirigeant]</p>
+                        <p class="text-[#BFBFBF] leading-relaxed mb-2"><strong class="text-white">Siège social :</strong> Sea Fast Boat 715 Quartier ROUSSEAU 97212 SAINT-JOSEPH</p>
+                        <p class="text-[#BFBFBF] leading-relaxed mb-2"><strong class="text-white">SIRET :</strong>92228063100016</p>
+                        <p class="text-[#BFBFBF] leading-relaxed"><strong class="text-white">Responsable de publication :</strong>Jeff Vergnac</p>
                     </div>
                 </section>
 
@@ -58,9 +58,9 @@
                         <span class="text-[#FF2D2D]">02.</span> HÉBERGEMENT
                     </h2>
                     <div class="bg-[#1A1A1A] p-6 rounded-lg border border-white/5">
-                        <p class="text-[#BFBFBF] leading-relaxed mb-2"><strong class="text-white">Prestataire :</strong> [Nom de votre hébergeur ex: OVH, O2Switch]</p>
-                        <p class="text-[#BFBFBF] leading-relaxed mb-2"><strong class="text-white">Adresse :</strong> [Adresse de l'hébergeur]</p>
-                        <p class="text-[#BFBFBF] leading-relaxed"><strong class="text-white">Contact :</strong> [Email ou Téléphone support]</p>
+                        <p class="text-[#BFBFBF] leading-relaxed mb-2"><strong class="text-white">Prestataire :</strong> O2Switch</p>
+                        <p class="text-[#BFBFBF] leading-relaxed mb-2"><strong class="text-white">Adresse :</strong> Chem. des Pardiaux, 63000 Clermont-Ferrand, France</p>
+                        <p class="text-[#BFBFBF] leading-relaxed"><strong class="text-white">Contact :</strong> par mail commercial@o2switch.fr ou par Téléphone 04 44 44 60 40</p>
                     </div>
                 </section>
 
