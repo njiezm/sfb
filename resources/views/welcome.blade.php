@@ -427,7 +427,7 @@
                 </div>
 
                 <div class="project-card aspect-[4/3] reveal" style="transition-delay:200ms">
-                    <img src="{{ asset('b3.jpg') }}" alt="Semi-rigide tuning" class="w-full h-full object-cover">
+                    <img src="{{ asset('images/b3.jpg') }}" alt="Semi-rigide tuning" class="w-full h-full object-cover">
                     <div class="overlay"></div>
                     <div class="project-info">
                         <span class="text-[9px] tracking-widest uppercase text-[#FF2D2D] font-bold">Motorisation</span>
@@ -437,7 +437,7 @@
                 </div>
 
                 <div class="project-card aspect-[4/3] reveal">
-                    <img src="{{ asset('b4.jpg') }}" alt="Vedette custom" class="w-full h-full object-cover">
+                    <img src="{{ asset('images/b4.jpg') }}" alt="Vedette custom" class="w-full h-full object-cover">
                     <div class="overlay"></div>
                     <div class="project-info">
                         <span class="text-[9px] tracking-widest uppercase text-[#FF2D2D] font-bold">Sur-Mesure</span>
@@ -447,7 +447,7 @@
                 </div>
 
                 <div class="project-card aspect-[4/3] reveal" style="transition-delay:100ms">
-                    <img src="{{ asset('b5.jpg') }}" alt="Peinture naval custom" class="w-full h-full object-cover">
+                    <img src="{{ asset('images/b5.jpg') }}" alt="Peinture naval custom" class="w-full h-full object-cover">
                     <div class="overlay"></div>
                     <div class="project-info">
                         <span class="text-[9px] tracking-widest uppercase text-[#FF2D2D] font-bold">Peinture</span>
@@ -457,7 +457,7 @@
                 </div>
 
                 <div class="project-card aspect-[4/3] reveal" style="transition-delay:200ms">
-                    <img src="{{ asset('b6.jpg') }}" alt="Electronique bateau" class="w-full h-full object-cover">
+                    <img src="{{ asset('images/b6.jpg') }}" alt="Electronique bateau" class="w-full h-full object-cover">
                     <div class="overlay"></div>
                     <div class="project-info">
                         <span class="text-[9px] tracking-widest uppercase text-[#FF2D2D] font-bold">Électronique</span>
@@ -495,6 +495,142 @@
                    <iframe class="w-full h-full" src="{{ asset('videos/renovation.mp4') }}" title="video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
             </div>
+        </div>
+    </section>
+
+        <!-- EVENEMENTS & RESERVATIONS -->
+    <section id="reservations-events" class="py-20 md:py-28 relative overflow-hidden">
+        <div class="absolute inset-0">
+            <img src="{{ asset('images/ban.png') }}" alt="Évènements en bateau"
+                 class="w-full h-full object-cover opacity-20">
+            <div class="absolute inset-0 bg-black/85"></div>
+        </div>
+
+        <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 md:px-12">
+
+            <div class="text-center max-w-4xl mx-auto reveal">
+                <span class="heading-impact text-[#FF2D2D] font-bold tracking-[0.2em] text-[10px] sm:text-xs flex items-center justify-center gap-2 mb-5">
+                    <i class="fa-solid fa-champagne-glasses text-xs"></i>
+                    Évènements & Réservations
+                </span>
+
+                <h2 class="heading-impact font-bold mb-6">
+                    ENVIE D'UNE <span class="text-[#FF2D2D]">ÉVASION</span><br>
+                    OU D'UN MOMENT UNIQUE ?
+                </h2>
+
+                <p class="text-[#BFBFBF] text-sm md:text-base leading-relaxed max-w-2xl mx-auto">
+                    Privatisez un bateau pour vos évènements privés, sorties en mer ou moments inoubliables en Martinique.
+                    Ambiance coucher de soleil, musique, détente, sensations et souvenirs garantis.
+                </p>
+            </div>
+
+            <!-- LISTE EVENTS -->
+            <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-5 mt-14">
+
+                <div class="card-service p-6 reveal">
+                    <div class="w-12 h-12 rounded-lg bg-[#FF2D2D]/10 flex items-center justify-center mb-5">
+                        <i class="fa-solid fa-heart text-[#FF2D2D] text-lg"></i>
+                    </div>
+                    <h3 class="heading-impact text-base font-bold mb-2">EVJF / EVG</h3>
+                    <p class="text-[#BFBFBF] text-sm">
+                        Une journée ou soirée mémorable entre amis avant le grand jour.
+                    </p>
+                </div>
+
+                <div class="card-service p-6 reveal" style="transition-delay:100ms">
+                    <div class="w-12 h-12 rounded-lg bg-[#FF2D2D]/10 flex items-center justify-center mb-5">
+                        <i class="fa-solid fa-baby text-[#FF2D2D] text-lg"></i>
+                    </div>
+                    <h3 class="heading-impact text-base font-bold mb-2">Baby Shower</h3>
+                    <p class="text-[#BFBFBF] text-sm">
+                        Organisez un moment magique et élégant en pleine mer.
+                    </p>
+                </div>
+
+                <div class="card-service p-6 reveal" style="transition-delay:200ms">
+                    <div class="w-12 h-12 rounded-lg bg-[#FF2D2D]/10 flex items-center justify-center mb-5">
+                        <i class="fa-solid fa-cake-candles text-[#FF2D2D] text-lg"></i>
+                    </div>
+                    <h3 class="heading-impact text-base font-bold mb-2">Anniversaires</h3>
+                    <p class="text-[#BFBFBF] text-sm">
+                        Fêtez votre anniversaire autrement avec une expérience premium.
+                    </p>
+                </div>
+
+                <div class="card-service p-6 reveal" style="transition-delay:300ms">
+                    <div class="w-12 h-12 rounded-lg bg-[#FF2D2D]/10 flex items-center justify-center mb-5">
+                        <i class="fa-solid fa-ring text-[#FF2D2D] text-lg"></i>
+                    </div>
+                    <h3 class="heading-impact text-base font-bold mb-2">Demandes en mariage</h3>
+                    <p class="text-[#BFBFBF] text-sm">
+                        Un coucher de soleil, la mer… et un moment inoubliable.
+                    </p>
+                </div>
+
+                <div class="card-service p-6 reveal">
+                    <div class="w-12 h-12 rounded-lg bg-[#FF2D2D]/10 flex items-center justify-center mb-5">
+                        <i class="fa-solid fa-music text-[#FF2D2D] text-lg"></i>
+                    </div>
+                    <h3 class="heading-impact text-base font-bold mb-2">Boat Party</h3>
+                    <p class="text-[#BFBFBF] text-sm">
+                        DJ, musique, cocktails et ambiance festive sur l'eau.
+                    </p>
+                </div>
+
+                <div class="card-service p-6 reveal" style="transition-delay:100ms">
+                    <div class="w-12 h-12 rounded-lg bg-[#FF2D2D]/10 flex items-center justify-center mb-5">
+                        <i class="fa-solid fa-camera-retro text-[#FF2D2D] text-lg"></i>
+                    </div>
+                    <h3 class="heading-impact text-base font-bold mb-2">Shooting Photo</h3>
+                    <p class="text-[#BFBFBF] text-sm">
+                        Créez des contenus uniques pour vos réseaux ou projets.
+                    </p>
+                </div>
+
+                <div class="card-service p-6 reveal" style="transition-delay:200ms">
+                    <div class="w-12 h-12 rounded-lg bg-[#FF2D2D]/10 flex items-center justify-center mb-5">
+                        <i class="fa-solid fa-briefcase text-[#FF2D2D] text-lg"></i>
+                    </div>
+                    <h3 class="heading-impact text-base font-bold mb-2">Évènements Pro</h3>
+                    <p class="text-[#BFBFBF] text-sm">
+                        Team building, afterwork ou réception d'entreprise en mer.
+                    </p>
+                </div>
+
+                <div class="card-service p-6 reveal" style="transition-delay:300ms">
+                    <div class="w-12 h-12 rounded-lg bg-[#FF2D2D]/10 flex items-center justify-center mb-5">
+                        <i class="fa-solid fa-sun text-[#FF2D2D] text-lg"></i>
+                    </div>
+                    <h3 class="heading-impact text-base font-bold mb-2">Sunset & Détente</h3>
+                    <p class="text-[#BFBFBF] text-sm">
+                        Profitez simplement d'une sortie privée au coucher du soleil.
+                    </p>
+                </div>
+
+            </div>
+
+            <!-- CTA -->
+            <div class="text-center mt-14 reveal">
+
+                <div class="flex items-center justify-center gap-3 text-[#FF2D2D] mb-5">
+                    <span class="heading-impact tracking-[0.2em] text-xs">
+                        RÉSERVATION ICI
+                    </span>
+
+                    <i class="fa-solid fa-arrow-right-long animate-pulse"></i>
+                </div>
+
+                <a href="https://reservation.sfb.njiezm.fr/"
+                   class="btn-premium inline-flex items-center gap-3 px-8 py-4 rounded-sm text-white font-bold text-sm shadow-2xl">
+
+                    Réserver maintenant
+                    <i class="fa-solid fa-arrow-up-right-from-square text-xs"></i>
+
+                </a>
+
+            </div>
+
         </div>
     </section>
 
@@ -770,5 +906,6 @@
 
     <!-- JS EXTERNE -->
     <script src="{{ asset('js/script.js') }}"></script>
+
 </body>
 </html>

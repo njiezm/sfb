@@ -71,19 +71,31 @@ function animateCounters() {
 }
 
 // Back to top button
+// function handleBackToTop() {
+//     var btn = document.getElementById('backToTop');
+//     if (window.scrollY > 600) {
+//         btn.style.opacity = '1';
+//         btn.style.transform = 'translateY(0)';
+//         btn.style.pointerEvents = 'auto';
+//     } else {
+//         btn.style.opacity = '0';
+//         btn.style.transform = 'translateY(16px)';
+//         btn.style.pointerEvents = 'none';
+//     }
+// }
 function handleBackToTop() {
-    var btn = document.getElementById('backToTop');
-    if (window.scrollY > 600) {
-        btn.style.opacity = '1';
-        btn.style.transform = 'translateY(0)';
-        btn.style.pointerEvents = 'auto';
+    const btn = document.getElementById('backToTop');
+
+    if (!btn) return;
+
+    if (window.scrollY > 500) {
+        btn.classList.remove('opacity-0', 'pointer-events-none', 'translate-y-4');
+        btn.classList.add('opacity-100', 'translate-y-0');
     } else {
-        btn.style.opacity = '0';
-        btn.style.transform = 'translateY(16px)';
-        btn.style.pointerEvents = 'none';
+        btn.classList.remove('opacity-100', 'translate-y-0');
+        btn.classList.add('opacity-0', 'pointer-events-none', 'translate-y-4');
     }
 }
-
 // Nav active state on scroll
 function updateActiveNav() {
     var sections = document.querySelectorAll('section[id]');
@@ -109,6 +121,7 @@ function updateActiveNav() {
 window.addEventListener('load', function() {
     reveal();
     handleBackToTop();
+     updateActiveNav();
 
     // Loading classes
     document.documentElement.classList.add('tw-loaded');
