@@ -24,7 +24,7 @@
                     <a href="#" class="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-[#666] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="YouTube">
                         <i class="fa-brands fa-youtube text-xs"></i>
                     </a>
-                    <a href="#" class="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-[#666] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="WhatsApp">
+                    <a href="https://wa.link/56j4nv" class="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-[#666] hover:text-[#FF2D2D] hover:bg-[#FF2D2D]/10 transition-all" aria-label="WhatsApp">
                         <i class="fa-brands fa-whatsapp text-xs"></i>
                     </a>
                 </div>
@@ -65,15 +65,15 @@
                     </li>
                     <li class="flex items-center gap-3">
                         <i class="fa-solid fa-phone text-[#FF2D2D] text-xs"></i>
-                        <span class="text-[#666] text-sm">0696 00 00 00</span>
+                        <span class="text-[#666] text-sm">0696 27 11 81</span>
                     </li>
                     <li class="flex items-center gap-3">
                         <i class="fa-solid fa-envelope text-[#FF2D2D] text-xs"></i>
-                        <span class="text-[#666] text-sm">contact@seafastboat.fr</span>
+                        <span class="text-[#666] text-sm">jeff_one@hotmail.fr</span>
                     </li>
                     <li class="flex items-start gap-3">
                         <i class="fa-solid fa-clock text-[#FF2D2D] text-xs mt-1"></i>
-                        <span class="text-[#666] text-sm">Lun-Ven : 7h30-17h<br>Sam : 8h-12h</span>
+                        <span class="text-[#666] text-sm">Lun-Ven : 8h-16h<br>Sam : sur RDV</span>
                     </li>
                 </ul>
             </div>
