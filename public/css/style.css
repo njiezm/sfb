@@ -324,7 +324,16 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.4rem) !important; }
         opacity 0.3s ease,
         transform 0.3s ease;
 
-    /* transform: translateY(16px); */
+    transform: translateY(16px);
 
     will-change: transform;
+}
+
+html, body {
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
+section {
+    overflow-x: hidden;
 }
